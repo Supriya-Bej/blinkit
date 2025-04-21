@@ -8,7 +8,7 @@
 /*HEADER*/
 
 header{
-    display: flex;
+   display: flex;
     border-top: 1px solid #ccc;
     border-bottom: 1px solid #ccc;
     align-items: center;
@@ -34,7 +34,7 @@ header{
 }
 .search-box{
     flex-grow: 1;
-    background-color: #f8f8f8;
+     background-color: #e3e0e0;
     border: 1px solid #f4f4f4;
     display: flex;
     border-radius: 15px;
@@ -110,7 +110,7 @@ header{
 }
 .category-items h3{
     text-align: center;
-    font-size: medium;
+    font-size: small;
 }
 
 /*Product Section*/
